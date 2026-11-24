@@ -106,7 +106,7 @@
       "buttonText": "Buy keys",
       "cards": [
         {
-          "name": "3 MAX keys",
+          "name": "3 PRO keys",
           "amount": "x3",
           "image": "assets/key.png",
           "price": { "INR": 149, "USD": 1.99 },
@@ -117,24 +117,24 @@
           "badge": ""
         },
         {
-          "name": "10 OP keys",
-          "amount": "x10",
+          "name": "3 OP keys",
+          "amount": "x3",
           "image": "assets/key.png",
           "price": { "INR": 399, "USD": 4.99 },
           "colour": "yellow",
           "tagline": "A solid bundle with a bonus key.",
-          "perks": ["10 common crate keys", "+1 bonus key"],
+          "perks": ["3 common crate keys", "+1 PRO key"],
           "featured": true,
           "badge": "Best value"
         },
         {
-          "name": "25 PRO keys",
-          "amount": "x25",
+          "name": "5 MAX keys",
+          "amount": "x5",
           "image": "assets/key.png",
           "price": { "INR": 899, "USD": 11.99 },
           "colour": "magenta",
           "tagline": "For serious crate openers.",
-          "perks": ["25 common crate keys", "+5 legendary crate keys"],
+          "perks": ["5 common crate keys", "+5 PRO crate keys"],
           "featured": false,
           "badge": "Collector"
         }
