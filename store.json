@@ -20,7 +20,7 @@
 
   "redirect": {
     "_help": "Where 'Buy now' / 'Continue to payment' sends players when the item has no orderLink of its own. Leave it empty to use the Discord link from config.json.",
-    "defaultOrderLink": ""
+    "defaultOrderLink": "https://discord.gg/GyXQfxzhXG"
   },
 
   "pages": {
@@ -35,7 +35,7 @@
       "boardText": "Every rank is applied automatically within a few minutes.",
       "note": "Ranks are applied automatically within a few minutes of payment. Need help? Ask in Discord.",
       "buttonText": "Order Now",
-      "orderLink": ""
+      "orderLink": "https://discord.gg/GyXQfxzhXG"
     },
 
     "coins": {
@@ -95,7 +95,7 @@
       "buttonText": "Buy keys",
       "cards": [
         {
-          "name": "3 crate keys",
+          "name": "3 MAX keys",
           "amount": "x3",
           "image": "assets/key.png",
           "price": { "INR": 149, "USD": 1.99 },
@@ -106,7 +106,7 @@
           "badge": ""
         },
         {
-          "name": "10 crate keys",
+          "name": "10 OP keys",
           "amount": "x10",
           "image": "assets/key.png",
           "price": { "INR": 399, "USD": 4.99 },
@@ -117,7 +117,7 @@
           "badge": "Best value"
         },
         {
-          "name": "25 crate keys",
+          "name": "25 PRO keys",
           "amount": "x25",
           "image": "assets/key.png",
           "price": { "INR": 899, "USD": 11.99 },
