@@ -66,7 +66,7 @@
           "price": { "INR": 399, "USD": 4.99 },
           "colour": "blue",
           "tagline": "Most popular pack with bonus coins.",
-          "perks": ["5,000 in-game coins", "+500 bonus coins"],
+          "perks": ["5,000 in-game coins", "+100 bonus coins"],
           "featured": true,
           "badge": "Popular"
         },
@@ -77,7 +77,7 @@
           "price": { "INR": 799, "USD": 9.99 },
           "colour": "orange",
           "tagline": "Best value for regular players.",
-          "perks": ["10,000 in-game coins", "+2,000 bonus coins"],
+          "perks": ["10,000 in-game coins", "+500 bonus coins"],
           "featured": false,
           "badge": "Best value"
         },
@@ -87,7 +87,7 @@
           "image": "assets/coin.png",
           "price": { "INR": 799, "USD": 9.99 },
           "colour": "red",
-          "tagline": "Best value for regular players.",
+          "tagline": "This is Premium Buy this.",
           "perks": ["12,000 in-game coins", "+2,000 bonus coins"],
           "featured": false,
           "badge": "Best value"
