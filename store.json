@@ -6,7 +6,7 @@
     "default": "INR",
     "base": "INR",
     "options": {
-      "Game Currency": { "label": "Game Currency", "symbol": "₹", "decimals": 0, "rate": 1 },
+      "Game Currency": { "label": "Game Currency", "symbol": "$", "decimals": 0, "rate": 1 },
     }
   },
 
